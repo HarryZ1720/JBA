@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JBadApple">
+    <output-path>$USER_HOME$/Desktop/JBadApple</output-path>
+    <root id="archive" name="JBadApple.jar">
+      <element id="module-output" name="JBadApple" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
